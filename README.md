@@ -130,7 +130,7 @@ Changement d'horaires, de prix ou de photos quand vous en avez besoin.
 
 <div align="center">
 
-[![E-mail](https://img.shields.io/badge/✉️_mathieugayvallet0@gmail.com-24515A?style=for-the-badge)](mailto:mathieugayvallet0@gmail.com)
+[![E-mail](https://img.shields.io/badge/✉️_E--mail-mathieugayvallet0@gmail.com-24515A?style=for-the-badge)](mailto:mathieugayvallet0@gmail.com)
 [![Téléphone](https://img.shields.io/badge/📞_Téléphone-07_62_04_70_87-3A2418?style=for-the-badge)](tel:+33762047087)
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://mgayvallet.github.io)
 
