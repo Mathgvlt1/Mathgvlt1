@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24515A,100:E8C547&height=140&section=header&text=Mathieu%20Gayvallet&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Sites%20web%20pour%20commerces%20et%20artisans%20-%20Vienne%20(38)&descAlignY=58&descSize=16" width="100%"/>
+
 <div align="center">
 
 # 👋 Bonjour, je suis **Mathieu Gayvallet**
@@ -12,6 +14,14 @@
   <img src="https://img.shields.io/badge/Freelance-Développeur%20Web-24515A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📍_Vienne-Isère%20(38)-E8C547?style=for-the-badge&labelColor=3A2418" />
   <img src="https://img.shields.io/badge/Statut-Disponible-success?style=for-the-badge" />
+</div>
+
+<br>
+
+<div align="center">
+
+**[📩 Demander un devis gratuit](mailto:mathieugayvallet0@gmail.com?subject=Demande%20de%20devis%20site%20web)** · **[🥖 Voir un exemple de site](https://mathgvlt1.github.io/Le-Fournil-de-la-Gere/)** · **[📞 07 62 04 70 87](tel:+33762047087)**
+
 </div>
 
 ---
@@ -61,11 +71,11 @@ Changement d'horaires, de prix ou de photos quand vous en avez besoin.
 <tr>
 <td width="100%">
 
-### 🥖 **Le Fournil de la Gère** *(site de démonstration)*
-<a href="https://github.com/TON-PSEUDO/fournil-de-la-gere">
+### 🥖 [**Le Fournil de la Gère**](https://mathgvlt1.github.io/Le-Fournil-de-la-Gere/) *(site de démonstration)*
+<a href="https://github.com/Mathgvlt1/Le-Fournil-de-la-Gere">
   <img src="https://img.shields.io/badge/Voir%20le%20code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://TON-PSEUDO.github.io/fournil-de-la-gere">
+<a href="https://mathgvlt1.github.io/Le-Fournil-de-la-Gere/">
   <img src="https://img.shields.io/badge/Voir%20le%20site-24515A?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
@@ -108,6 +118,34 @@ Changement d'horaires, de prix ou de photos quand vous en avez besoin.
 *Devis gratuit. Paiement à la livraison du site.*
 
 </div>
+
+---
+
+## ❓ Questions fréquentes
+
+<details>
+<summary><b>Je n'y connais rien en informatique, c'est un problème ?</b></summary>
+<br>
+Pas du tout. Vous m'envoyez vos infos et vos photos, je m'occupe de tout le reste, y compris la mise en ligne.
+</details>
+
+<details>
+<summary><b>Est-ce qu'il y a des frais chaque mois ?</b></summary>
+<br>
+Pas d'abonnement d'agence : vous payez le site une fois. Seul un nom de domaine (ex. <i>maboulangerie.fr</i>), si vous en voulez un, coûte une dizaine d'euros par an.
+</details>
+
+<details>
+<summary><b>Mes clients me trouveront-ils sur Google ?</b></summary>
+<br>
+Le site est pensé pour la recherche locale, et je peux vous aider à créer ou compléter votre fiche Google de votre commerce.
+</details>
+
+<details>
+<summary><b>Et si je veux changer mes horaires plus tard ?</b></summary>
+<br>
+Un message suffit, je fais la modification.
+</details>
 
 ---
 
