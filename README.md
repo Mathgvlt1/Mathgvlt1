@@ -1,141 +1,141 @@
 <div align="center">
 
-# 👋 Hi, I'm **Mathieu Gayvallet**
+# 👋 Bonjour, je suis **Mathieu Gayvallet**
 
-### 🚀 Frontend Developer • Web & Design Enthusiast
+### 🌐 Création de sites web pour les commerces et artisans de Vienne (38)
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=mgayvallet&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/badge/Freelance-Développeur%20Web-24515A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_Vienne-Isère%20(38)-E8C547?style=for-the-badge&labelColor=3A2418" />
+  <img src="https://img.shields.io/badge/Statut-Disponible-success?style=for-the-badge" />
 </div>
 
 ---
 
-## 💫 About Me
-```javascript
-const mathieu = {
-    role: "Frontend Developer",
-    passions: ["🎮 Video Games", "🏒 Hockey", "💻 Coding", "🎨 Design"],
-    mission: "Build modern, intuitive, and high-performance interfaces",
-    currently: "Seeking new opportunities",
-};
-```
+## 💼 Ce que je fais pour vous
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Featured Projects
+Votre commerce n'a pas de site, ou seulement une page Facebook ? Je crée un site **simple, moderne et adapté aux téléphones**, pour que vos clients vous trouvent sur Google et sachent tout de suite où vous êtes, quand vous êtes ouvert et comment vous joindre.
 
 <table>
 <tr>
+<td width="33%" valign="top">
 
-<td width="50%">
+### 🏪 Site vitrine
+Présentation, horaires, adresse, plan, photos et bouton d'appel direct.
 
-### 📊 **Custom Dashboard**
-<a href="https://github.com/mgayvallet/dashboard">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-*A sleek, modern dashboard to track your daily tasks and events.*
-
-#### ✨ **Key Features**
-- **Clear Overview**.
-- **Task Tracking**.
-- **Event Management**.
-- **Fully Responsive**.
-- **Clean Design**.
-
-#### 🛠 **Built With**
-`HTML` `CSS` `JavaScript`
-  <br> 
-  <br> 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🌐 **Portfolio - Mathieu Gayvallet**
-<a href="https://github.com/mgayvallet/mgayvallet.github.io">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 🛒 Commande en ligne
+Un formulaire pour que vos clients réservent ou commandent à l'avance.
 
-*A personal portfolio website built with React and Tailwind CSS, showcasing my skills and projects as a web and mobile web developer.*
+</td>
+<td width="33%" valign="top">
 
-#### ✨ **Key Features**
-- **Modern Design**.
-- **Responsive Layout**.
-- **Project Showcase**.
-- **Easy Navigation**.
+### 🔧 Mise à jour
+Changement d'horaires, de prix ou de photos quand vous en avez besoin.
 
-#### 🛠 **Built With**
-`React` `Tailwind CSS` `JavaScript`
-  <br> 
-  <br> 
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## ✅ Pourquoi travailler avec moi
+
+- **📍 Local** : je suis à Vienne, je peux passer vous voir en boutique.
+- **📱 Pensé pour le téléphone** : la majorité de vos clients vous cherchent depuis leur mobile.
+- **⚡ Rapide** : votre site est en ligne en environ une semaine.
+- **💶 Prix accessible** : pas d'abonnement d'agence, un prix fixe annoncé à l'avance.
+- **🤝 Simple** : vous me donnez vos infos et vos photos, je m'occupe du reste.
+
+---
+
+## 🎯 Réalisations
+
+<table>
+<tr>
+<td width="100%">
+
+### 🥖 **Le Fournil de la Gère** *(site de démonstration)*
+<a href="https://github.com/TON-PSEUDO/fournil-de-la-gere">
+  <img src="https://img.shields.io/badge/Voir%20le%20code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://TON-PSEUDO.github.io/fournil-de-la-gere">
+  <img src="https://img.shields.io/badge/Voir%20le%20site-24515A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+*Exemple de site pour une boulangerie artisanale.*
+
+#### ✨ **Ce que le site fait**
+- Affiche en direct si la boutique est **ouverte ou fermée**.
+- Met en avant la **prochaine fournée** de pain selon l'heure.
+- **Formulaire de commande** : les demandes arrivent directement par e-mail.
+- Carte des produits avec prix, galerie photos et plan d'accès.
+- Bouton **« Appeler »** toujours visible sur téléphone.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗓️ Comment ça se passe
+
+| Étape | Ce qu'on fait |
+|:---:|---|
+| **1. On se rencontre** | Je passe en boutique, on parle de ce dont vous avez besoin. Gratuit et sans engagement. |
+| **2. Vous m'envoyez vos infos** | Horaires, adresse, produits, prix et quelques photos. |
+| **3. Je crée le site** | Je vous montre une première version et on ajuste ensemble. |
+| **4. Mise en ligne** | Votre site est en ligne, je vous explique comment il fonctionne. |
+
+---
+
+## 💶 Tarifs
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgayvallet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgayvallet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mgayvallet&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+| Offre | Prix |
+|---|:---:|
+| **Site vitrine** (une page complète) | à partir de **150 €** |
+| **Site + formulaire de commande** | sur devis |
+| **Modification ponctuelle** | sur devis |
+
+*Devis gratuit. Paiement à la livraison du site.*
+
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🛠️ Technologies
 
 <div align="center">
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📞 Me contacter
+
+<div align="center">
+
+[![E-mail](https://img.shields.io/badge/✉️_E--mail-ton.email@exemple.fr-24515A?style=for-the-badge)](mailto:ton.email@exemple.fr)
+[![Téléphone](https://img.shields.io/badge/📞_Téléphone-06_00_00_00_00-3A2418?style=for-the-badge)](tel:+33600000000)
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://mgayvallet.github.io)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgayvallet)
 
-</div>
+**Vous avez un commerce à Vienne ou dans les environs ? Écrivez-moi, je vous réponds sous 24 h.** 🚀
 
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
----
-
-**✨ Thanks for visiting!**  
-*Feel free to explore my projects and reach out for any collaboration* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24515A,100:E8C547&height=100&section=footer" width="100%"/>
 
 </div>
