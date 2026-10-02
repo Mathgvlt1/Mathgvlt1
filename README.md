@@ -111,7 +111,7 @@ Changement d'horaires, de prix ou de photos quand vous en avez besoin.
 
 | Offre | Prix |
 |---|:---:|
-| **Site vitrine** (une page complète) | à partir de **150 €** |
+| **Site vitrine** (une page complète) | à partir de **250 €** |
 | **Site + formulaire de commande** | sur devis |
 | **Modification ponctuelle** | sur devis |
 
